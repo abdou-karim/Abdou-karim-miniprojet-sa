@@ -16,7 +16,7 @@ sinon vous serez agacé par nos message d'erreur car etant bien validé!
 pour tester notre travaille veuillez cliquer sur le lien suivant:
 http://abdquizz.alwaysdata.net/
 pour visualisez les codes sources voici le lien github:
-https://github.com/abdou-karim/Abdou-karim-miniprojet-sa.git
+https://github.com/abdou-karim/Abdou-karim-miniprojet-sa
 Dans ce pure projet nous avons utilise comme technologie les langages suivants:
 Html , Css , Javascript et Php
 
